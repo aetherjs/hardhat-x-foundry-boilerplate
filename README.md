@@ -1,4 +1,4 @@
-# Forge x Hardhat
+# Foundry x Hardhat
 
 Use this template for easy setup of a smart contract workstation - combine hardhat and foudry functionality with ease. Using vanilla JS (no typescript, unlike most current alternative templates). 
 
